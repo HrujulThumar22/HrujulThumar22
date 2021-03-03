@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HrujulThumar22/HrujulThumar22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,7 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
-I'm `Hrujul Thumar`**, a `computer science and engineering student`. I'm a `Junior Year Student` at , Institute of Technology, Nirma University 😉. I will be joining `Deutsche Bank` as a Summer Intern 😃.
+I'm **Hrujul Thumar**, a **computer science and engineering student**. I'm a **Junior Year Student** at , Institute of Technology, Nirma University 😉. I will be joining **Deutsche Bank** as a Summer Intern 😃.
 
 Please explore my repositories and feel free to give feedback.
 
