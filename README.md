@@ -34,6 +34,7 @@ Please explore my repositories and feel free to give feedback.
 [<img align = "left" alt="Hrujul Thumar | Instagram" height="30px" src="https://image.flaticon.com/icons/svg/725/725278.svg" />](https://www.instagram.com/_.hrujul_22._/)
 
 </br>
+<hr>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -44,7 +45,7 @@ Please explore my repositories and feel free to give feedback.
 </div>
 <p align="center">
   <a href="https://github.com/HrujulThumar22">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrujulThumar22&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HrujulThumar22&count_private=true&theme=onedark&hide_border=true&show_icons=true&include_all_commits=true"/><br>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrujulThumar22&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
   </a>
 </p>
