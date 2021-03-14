@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 👨🏻‍💻 &nbsp;About Me
+<img align="left" height="100px" width="100px" src="https://sdk.bitmoji.com/render/panel/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-08a7fb3f-df2b-484e-8734-169b232d75fe-v1.png?transparent=1&palette=1"></img>
 I'm **Hrujul Thumar**, a **computer science and engineering student**. I'm a **Junior Year Student** at , Institute of Technology, Nirma University 😉. I will be joining **Deutsche Bank** as a Summer Intern 😃.
 
 Please explore my repositories and feel free to give feedback.
@@ -55,8 +56,7 @@ Please explore my repositories and feel free to give feedback.
 <p align="center">
 <a href="https://github.com/HrujulThumar22">
   <img src="https://komarev.com/ghpvc/?username=HrujulThumar22" alt="Hrujul Thumar" />
-  <img src="https://img.shields.io/github/followers/HrujulThumar22?style=flat&color=red&label=GitHub%20Followers%20"/></a>
-  <img src="https://img.shields.io/github/last-commit/HrujulThumar22/HrujulThumar22?style=flat&color=brightgreen&label=Last%20Updated%20"/></a>
+  <img src="https://img.shields.io/github/followers/HrujulThumar22?style=flat&color=red&label=GitHub%20Followers%20"/></a></a>
 </p>
 
 ---
