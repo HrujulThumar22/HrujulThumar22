@@ -28,7 +28,7 @@ Please explore my repositories and feel free to give feedback.
 
 - 🤝 &nbsp;I’m looking to collaborate on algorithms projects, Web Development Projects.
 - 🌱 &nbsp;I’m currently learning MERN Stack Development, LAMP Technologies, Information and Network Security.
-- ✍️ &nbsp;Apart from acedemics, I love spending my time playing Basketlball or surfing the net. 
+- ✍️ &nbsp;Apart from acedemics, I love spending my time playing Basketball or surfing the net. 
 - 📫 How to reach me: 
 
 [<img align = "left" alt="Hrujul Thumar | LinkedIn" height="30px" src="https://www.flaticon.com/svg/static/icons/svg/725/725337.svg"/>](https://www.linkedin.com/in/hrujul-thumar-b81662183/)
