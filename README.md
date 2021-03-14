@@ -19,11 +19,11 @@ Here are some ideas to get you started:
   </h2>
 </div>
 
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif"/></img>
 ### 👨🏻‍💻 &nbsp;About Me
-<img align="left" style="vertical-align:middle" height="75px" width="75px" src="https://sdk.bitmoji.com/render/panel/732eaa6e-2db0-48dc-b8d8-4484ec74e70f-08a7fb3f-df2b-484e-8734-169b232d75fe-v1.png?transparent=1&palette=1"></img>
-I'm **Hrujul Thumar**, a **computer science and engineering student**. I'm a **Junior Year Student** at , Institute of Technology, Nirma University 😉. I will be joining **Deutsche Bank** as a Summer Intern 😃.
+I'm **[Hrujul Thumar](https://github.com/HrujulThumar22)**, a **computer science and engineering student**. I'm a **Junior Year Student** at , Institute of Technology, Nirma University 😉. I will be joining **Deutsche Bank** as a Summer Intern 😃.
 
-</br>
+
 Please explore my repositories and feel free to give feedback.
 
 - 🤝 &nbsp;I’m looking to collaborate on algorithms projects, Web Development Projects.
