@@ -51,7 +51,12 @@ Please explore my repositories and feel free to give feedback.
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HrujulThumar22&theme=onedark&hide_border=true&langs_count=9&layout=compact"/>
   </a>
 </p>
-
+<table align="center">
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/hrujulthumar22/count.svg" alt="" /></td>
+  </tr>
+</table>
 ---
 
 <p align="center">
